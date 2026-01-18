@@ -1,3 +1,3 @@
-# template.py
+# PyTemplate
 
-Python script template
+Python single-script UNIX filter template
