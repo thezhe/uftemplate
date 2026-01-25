@@ -10,7 +10,7 @@ RUN apt-get -y update && \
 FROM dev AS build
 WORKDIR /workspace
 COPY . .
-RUN ansible-playbook build.yml
+RUN ./build.yml
 FROM base AS prod
 WORKDIR /app
 COPY --from=build /workspace/build build/
