@@ -1,8 +1,8 @@
 meta:
-  id: msg
+  id: msgout
   endian: be
   ks-debug: false
   ks-opaque-types: false
 seq:
-  - id: t
-    type: f8
+  - id: value
+    type: s8
