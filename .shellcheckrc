@@ -1,0 +1,3 @@
+disable=SC2312 # check-extra-masked-return
+enable=all
+shell=sh

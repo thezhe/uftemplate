@@ -1,3 +1,5 @@
-# PyTemplate
+# uftemplate
 
-Python single-script UNIX filter template
+UNIX filter template project
+
+<!-- TODO json, ksy, shadow/shade, dep/code scan, get semver from git, linters -->
