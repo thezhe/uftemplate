@@ -1,1 +1,1 @@
-# TODO expose src/ modules for library use
+# TODO library
